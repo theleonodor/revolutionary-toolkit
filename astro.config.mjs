@@ -28,9 +28,10 @@ export default defineConfig({
         baseUrl: 'https://github.com/yourusername/toolkit-docs/edit/main/',
       },
       lastUpdated: true,
-      // customCss: [
-      //   './src/styles/custom.css',
-      // ],
+      // UNCOMMENT THIS LINE TO ENABLE CUSTOM STYLING:
+      customCss: [
+        './src/styles/custom.css',
+      ],
       sidebar: [
         {
           label: 'Getting Started',
@@ -76,6 +77,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { label: 'Resource Library', link: '/resources/' },
+            { label: 'Direct Downloads', link: '/resources/downloads/' }, // Added your downloads page
             { label: 'Documents & PDFs', link: '/resources/documents/' },
             { label: 'Zines', link: '/resources/zines/' },
             { label: 'Graphics & Media', link: '/resources/graphics/' },
@@ -100,10 +102,10 @@ export default defineConfig({
           ],
         },
       ],
-      // components: {
-      //   // Override the default components if needed
-      //   Head: './src/components/Head.astro',
-      // },
+      //components: {
+        // Override the default components if needed
+        //Head: './src/components/Head.astro',
+      //},
     }),
   ],
 });

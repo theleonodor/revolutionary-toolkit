@@ -1,0 +1,20 @@
+---
+// src/components/PDFStats.astro
+import { getPDFStats, formatSize } from '../utils/pdfStats';
+
+const { totalFiles, totalSize, lastUpdated } = getPDFStats();
+---
+
+<p class="pdf-stats">
+  <em>Last updated: {lastUpdated} | Total files: {totalFiles} | Total size: {formatSize(totalSize)}</em>
+</p>
+
+<style>
+  .pdf-stats {
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--sl-color-gray-5);
+    color: var(--sl-color-gray-2);
+    font-size: 0.9rem;
+  }
+</style>

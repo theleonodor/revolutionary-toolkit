@@ -1,6 +1,6 @@
 ---
-title: 'Guerrilla Warfare: Strategic and Tactical Guide'
-description: 'Comprehensive guide to guerrilla warfare theory and practice based on Che Guevara\'s manual'
+title: "Guerrilla Warfare: Strategic and Tactical Guide"
+description: "Comprehensive guide to guerrilla warfare theory and practice based on Che Guevara's manual"
 sidebar:
   order: 5
 ---
