@@ -5,30 +5,24 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
   integrations: [
     starlight({
-      title: 'Toolkit Documentation',
-      description: 'Comprehensive resource and training toolkit',
+      title: 'Revolutionary Toolkit',
+      description: 'An educational reference on the history, tactics, and practice of organizing for social change.',
       logo: {
-        src: './src/assets/logo.svg',
-        replacesTitle: true,
+        src: './src/assets/logo.png',
+        replacesTitle: false,
       },
-      favicon: '/favicon.ico',
+      favicon: '/favicon.svg',
       social: [
         {
           icon: 'github',
           label: 'GitHub',
-          href: 'https://github.com/yourusername/toolkit-docs',
-        },
-        {
-          icon: 'discord',
-          label: 'Discord',
-          href: 'https://discord.gg/your-server',
+          href: 'https://github.com/theleonodor/revolutionary-toolkit',
         },
       ],
       editLink: {
-        baseUrl: 'https://github.com/yourusername/toolkit-docs/edit/main/',
+        baseUrl: 'https://github.com/theleonodor/revolutionary-toolkit/edit/main/',
       },
       lastUpdated: true,
-      // UNCOMMENT THIS LINE TO ENABLE CUSTOM STYLING:
       customCss: [
         './src/styles/custom.css',
       ],
@@ -60,6 +54,7 @@ export default defineConfig({
             { label: 'Communication', link: '/tactics/communication/' },
             { label: 'Safety & Security', link: '/tactics/security/' },
             { label: 'Legal Considerations', link: '/tactics/legal/' },
+            { label: 'Guerrilla Warfare', link: '/tactics/guerilla-warfare/' },
           ],
         },
         {
@@ -77,8 +72,9 @@ export default defineConfig({
           collapsed: false,
           items: [
             { label: 'Resource Library', link: '/resources/' },
-            { label: 'Direct Downloads', link: '/resources/downloads/' }, // Added your downloads page
+            { label: 'Direct Downloads', link: '/resources/downloads/' },
             { label: 'Documents & PDFs', link: '/resources/documents/' },
+            { label: 'Revolutionary Texts', link: '/resources/revolutionary-texts/' },
             { label: 'Zines', link: '/resources/zines/' },
             { label: 'Graphics & Media', link: '/resources/graphics/' },
             { label: 'External Links', link: '/resources/links/' },
@@ -90,22 +86,9 @@ export default defineConfig({
           items: [
             { label: 'Checklists', link: '/tools/checklists/' },
             { label: 'Templates', link: '/tools/templates/' },
-            { label: 'Quick Reference', link: '/tools/quick-ref/' },
-          ],
-        },
-        {
-          label: 'Community',
-          items: [
-            { label: 'Discussion Forums', link: '/community/forums/' },
-            { label: 'Local Groups', link: '/community/groups/' },
-            { label: 'Events', link: '/community/events/' },
           ],
         },
       ],
-      //components: {
-        // Override the default components if needed
-        //Head: './src/components/Head.astro',
-      //},
     }),
   ],
 });

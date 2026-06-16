@@ -3,8 +3,6 @@ title: Training Materials
 description: Educational content including workshops, exercises, and facilitator guides
 ---
 
-# Training Materials
-
 Comprehensive educational resources designed for both individual study and group learning environments.
 
 ## Training Formats

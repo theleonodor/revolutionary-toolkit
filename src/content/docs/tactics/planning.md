@@ -3,8 +3,6 @@ title: Planning & Organization
 description: Strategic planning frameworks, organizational models, and coordination methods
 ---
 
-# Planning & Organization
-
 Effective organizing requires strategic thinking, clear planning, and strong organizational structures. This section covers proven frameworks for strategic planning, different organizational models, and practical coordination methods.
 
 ## Strategic Planning Fundamentals

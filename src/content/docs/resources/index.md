@@ -3,8 +3,6 @@ title: Resource Library
 description: Comprehensive collection of documents, zines, graphics, and external links
 ---
 
-# Resource Library
-
 Curated collection of materials including historical documents, educational content, visual resources, and external references.
 
 ## Resource Categories
@@ -70,7 +68,6 @@ Essential guides for community resilience, emergency planning, and mutual aid co
 ### Recently Added
 - Check our [Direct Downloads](/resources/downloads/) page for the latest additions
 - New external links are added regularly to [Documents & PDFs](/resources/documents/)
-- Revolutionary texts collection continues to expand
 
 ---
 

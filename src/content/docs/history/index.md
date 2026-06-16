@@ -3,8 +3,6 @@ title: Historical Context
 description: Learn from past movements, key events, and documented experiences
 ---
 
-# Historical Context
-
 Understanding history is crucial for developing effective strategies and avoiding repeated mistakes. This section provides background on key movements, events, and the evolution of tactics over time.
 
 ## What You'll Find Here

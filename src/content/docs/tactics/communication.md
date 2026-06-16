@@ -3,8 +3,6 @@ title: Communication
 description: Secure communication protocols, coordination strategies, and information sharing
 ---
 
-# Communication
-
 Effective communication is the backbone of successful organizing. This section covers secure communication protocols, coordination strategies, information sharing, and building communication infrastructure for movements.
 
 ## Communication Fundamentals

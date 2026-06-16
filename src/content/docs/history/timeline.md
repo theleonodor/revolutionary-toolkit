@@ -3,8 +3,6 @@ title: Timeline
 description: Chronological overview of important global movements and tactical developments
 ---
 
-# Historical Timeline
-
 A chronological overview of key global events, revolutionary movements, and tactical innovations that have shaped resistance to oppression, imperialism, and colonialism worldwide.
 
 ## Revolutionary Foundations (1700s-1800s)

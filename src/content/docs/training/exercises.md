@@ -3,8 +3,6 @@ title: Exercises
 description: Interactive learning activities and skill-building exercises
 ---
 
-# Training Exercises
-
 Interactive learning activities, scenarios, and skill-building exercises for hands-on practice. These exercises complement the [workshop curricula](/training/workshops/) and can be used independently or combined into custom training sessions.
 
 ## Exercise Categories

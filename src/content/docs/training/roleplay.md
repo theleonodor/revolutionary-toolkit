@@ -3,8 +3,6 @@ title: Role Playing
 description: Scenario-based learning activities for practical skill development
 ---
 
-# Role Playing Scenarios
-
 Scenario-based learning activities that simulate real-world situations for practical skill development. These role-plays provide safe environments to practice challenging interactions and develop critical organizing skills.
 
 ## Role-Play Categories

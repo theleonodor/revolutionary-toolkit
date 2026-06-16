@@ -5,7 +5,6 @@ sidebar:
   order: 5
 ---
 
-# Guerrilla Warfare: Strategic and Tactical Guide
 *Based on Che Guevara's Manual*
 
 ## Overview

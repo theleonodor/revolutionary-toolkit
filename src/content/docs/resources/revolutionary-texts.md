@@ -5,8 +5,6 @@ sidebar:
   order: 6
 ---
 
-# Revolutionary Texts Library
-
 A curated collection of foundational texts on revolutionary warfare, liberation theory, and anti-colonial struggle. These works provide theoretical foundations and practical guidance from successful liberation movements worldwide.
 
 :::note[Historical Context]

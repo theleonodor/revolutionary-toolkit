@@ -3,8 +3,6 @@ title: Legal Considerations
 description: Understanding rights, legal frameworks, and protective strategies
 ---
 
-# Legal Considerations
-
 Understanding your legal rights and the legal landscape is essential for safe and effective organizing. This section covers constitutional rights, police interactions, legal observer training, and protective legal strategies.
 
 ## Constitutional Rights and Civil Liberties
@@ -462,11 +460,13 @@ Understanding your legal rights and the legal landscape is essential for safe an
 - **Secure all evidence** with proper chain of custody
 
 ### Emergency Contacts Template
-**Legal Hotline:** [Local legal hotline number]  
-**Jail Support:** [Jail support coordinator contact]  
-**Bail Fund:** [Community bail fund contact]  
-**Attorney:** [Movement attorney contact]  
-**Family/Friends:** [Personal emergency contacts]  
+Fill this in before attending any high-risk action:
+
+- **Legal Hotline:** local legal hotline number
+- **Jail Support:** jail support coordinator contact
+- **Bail Fund:** community bail fund contact
+- **Attorney:** movement attorney contact
+- **Family/Friends:** personal emergency contacts
 
 :::tip[Know Before You Go]
 Always receive legal training before participating in high-risk activities. Understanding your rights in advance is much more effective than trying to learn them during a crisis.

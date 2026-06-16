@@ -3,8 +3,6 @@ title: Key Movements
 description: Major historical movements and their strategic approaches
 ---
 
-# Key Movements
-
 Understanding how successful movements have organized, strategized, and adapted over time provides essential context for contemporary organizing efforts.
 
 ## Civil Rights Movement (1950s-1960s)

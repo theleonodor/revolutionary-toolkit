@@ -3,8 +3,6 @@ title: Lessons Learned
 description: Strategic wisdom extracted from historical movements and struggles
 ---
 
-# Lessons Learned
-
 Strategic principles and tactical wisdom extracted from centuries of resistance movements, revolutionary struggles, and liberation campaigns worldwide.
 
 ## Core Strategic Principles

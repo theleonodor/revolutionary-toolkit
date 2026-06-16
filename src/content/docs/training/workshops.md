@@ -3,8 +3,6 @@ title: Workshops
 description: Complete workshop curricula with facilitator guides and materials
 ---
 
-# Workshop Training Materials
-
 Ready-to-use workshop curricula covering essential organizing skills and knowledge. Each workshop includes facilitator guides, participant materials, activities, and assessment tools.
 
 ## Workshop Design Principles

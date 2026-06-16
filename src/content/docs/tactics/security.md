@@ -3,8 +3,6 @@ title: Safety & Security
 description: Security culture, digital privacy, and operational security for organizers
 ---
 
-# Safety & Security
-
 Comprehensive guide to security culture, digital privacy, and operational security practices for organizers and activists. Security culture protects individuals and strengthens movements.
 
 ## What Is Security Culture?

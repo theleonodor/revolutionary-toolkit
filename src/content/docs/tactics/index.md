@@ -3,8 +3,6 @@ title: Tactics & Strategies
 description: Practical approaches covering planning, organization, communication, and security
 ---
 
-# Tactics & Strategies
-
 This section covers practical methodologies, proven approaches, and strategic frameworks for effective organization and action.
 
 ## Core Areas
@@ -21,8 +19,8 @@ Security culture, risk assessment, personal safety, and protective measures.
 ### [Legal Considerations](/tactics/legal/)
 Understanding rights, legal frameworks, and protective legal strategies.
 
-### [Guerrilla Warfare](/tactics/guerrilla-warfare/)
-Strategic and tactical guide based on proven guerrilla warfare theory and practice.
+### [Guerrilla Warfare](/tactics/guerilla-warfare/)
+Strategic and tactical principles drawn from Che Guevara's manual, presented as historical and educational reference.
 
 ## Key Principles
 

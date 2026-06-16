@@ -3,15 +3,13 @@ title: How to Use This Toolkit
 description: A guide to navigating and making the most of these resources
 ---
 
-# How to Use This Toolkit
-
 This guide will help you navigate the toolkit effectively and find the information you need quickly.
 
 ## Understanding the Structure
 
-The toolkit is organized into six main sections, each serving different purposes:
+The toolkit is organized into five main sections, each serving different purposes:
 
-### 📚 Historical Context
+### Historical Context
 **When to use:** When you need background information, want to learn from past experiences, or need to understand the evolution of tactics and strategies.
 
 **What you'll find:**
@@ -20,7 +18,7 @@ The toolkit is organized into six main sections, each serving different purposes
 - Documented lessons learned
 - Analysis of what worked and what didn't
 
-### 🎯 Tactics & Strategies
+### Tactics & Strategies
 **When to use:** When planning actions, developing strategies, or need practical guidance on implementation.
 
 **What you'll find:**
@@ -29,7 +27,7 @@ The toolkit is organized into six main sections, each serving different purposes
 - Security considerations and best practices
 - Legal information and rights awareness
 
-### 🎓 Training Materials
+### Training Materials
 **When to use:** When conducting educational sessions, developing skills, or preparing groups for action.
 
 **What you'll find:**
@@ -38,7 +36,7 @@ The toolkit is organized into six main sections, each serving different purposes
 - Skill-building activities
 - Assessment and evaluation tools
 
-### 📖 Resource Library
+### Resource Library
 **When to use:** When you need specific documents, want to explore related materials, or are looking for additional references.
 
 **What you'll find:**
@@ -47,7 +45,7 @@ The toolkit is organized into six main sections, each serving different purposes
 - Graphics, infographics, and visual resources
 - Curated external links and websites
 
-### 🛠️ Tools & Templates
+### Tools & Templates
 **When to use:** When you need practical materials for planning, organizing, or field use.
 
 **What you'll find:**
@@ -55,15 +53,6 @@ The toolkit is organized into six main sections, each serving different purposes
 - Communication templates
 - Quick reference cards
 - Emergency contact sheets
-
-### 👥 Community Hub
-**When to use:** When looking to connect with others, find local groups, or stay informed about activities.
-
-**What you'll find:**
-- Directory of local groups and contacts
-- Discussion forums and communication channels
-- Event calendars and announcements
-- Networking opportunities
 
 ## Finding Information Quickly
 
@@ -93,7 +82,6 @@ Resources are tagged with categories to help you filter content:
 **For Planning & Action:**
 1. Begin with Tactics & Strategies for frameworks
 2. Use Tools & Templates for practical materials
-3. Check Community Hub for local connections
 
 **For Training Others:**
 1. Review Training Materials for curricula
@@ -124,17 +112,15 @@ Resources are tagged with categories to help you filter content:
 ### If You Can't Find Something
 1. Try different search terms or browse related sections
 2. Check the [Resource Library](/resources/links/) for external sources
-3. Look in [Community Hub](/community/) for discussion forums
-4. Contact maintainers through the [Contributing](/contributing/) page
+3. Contact maintainers through the [Contributing](/contributing/) page
 
 ### If Information Seems Outdated
 1. Check the "Last Updated" date on the page
-2. Look for more recent information in [Community](/community/) sections
-3. Report outdated content through our feedback system
-4. Contribute updated information if you have it
+2. Report outdated content through the [Contributing](/contributing/) page
+3. Contribute updated information if you have it
 
 ### Technical Issues
-- **Broken links** - Report through the feedback system
+- **Broken links** - Report through the [Contributing](/contributing/) page
 - **Missing resources** - Check if files have been moved or renamed
 - **Display problems** - Try refreshing the page or clearing browser cache
 
@@ -142,9 +128,8 @@ Resources are tagged with categories to help you filter content:
 
 ### Quick Reference Mode
 When you need information fast:
-1. Go directly to [Quick Reference](/tools/quick-ref/)
+1. Go directly to [Tools & Checklists](/tools/checklists/)
 2. Use the search function with specific terms
-3. Check the most recent updates in each section
 
 ### Deep Study Mode
 When you have time for comprehensive learning:
@@ -156,7 +141,6 @@ When you have time for comprehensive learning:
 When getting ready for specific activities:
 1. Review relevant sections in [Tactics & Strategies](/tactics/)
 2. Download necessary materials from [Tools & Templates](/tools/)
-3. Connect with others through [Community Hub](/community/)
 
 ---
 

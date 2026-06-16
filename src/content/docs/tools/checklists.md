@@ -3,8 +3,6 @@ title: Checklists
 description: Comprehensive checklists for planning, preparation, and execution
 ---
 
-# Checklists
-
 Ready-to-use checklists for various organizing activities. These checklists help ensure nothing important is forgotten and provide structured approaches to complex tasks.
 
 ## Event Planning Checklists

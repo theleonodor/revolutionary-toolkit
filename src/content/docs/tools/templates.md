@@ -3,8 +3,6 @@ title: Templates
 description: Customizable templates for planning, communication, and organization
 ---
 
-# Templates
-
 Ready-to-use document templates that you can customize for your specific needs. These templates provide proven frameworks while allowing flexibility for different contexts and organizations.
 
 ## Strategic Planning Templates

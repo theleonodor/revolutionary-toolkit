@@ -3,8 +3,6 @@ title: Tools & Templates
 description: Ready-to-use checklists, templates, and practical tools
 ---
 
-# Tools & Templates
-
 Practical, ready-to-use materials designed to support planning, organization, and field operations.
 
 ## Available Tools
@@ -15,8 +13,6 @@ Comprehensive checklists for planning, preparation, and execution of various act
 ### [Templates](/tools/templates/)
 Customizable templates for planning documents, communication materials, and organizational tools.
 
-### [Quick Reference](/tools/quick-ref/)
-Essential information condensed into quick-reference formats for easy access during activities.
 
 ## Tool Categories
 
